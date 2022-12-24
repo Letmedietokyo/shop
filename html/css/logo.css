@@ -1,0 +1,9 @@
+#bag, #cart, #giftcontain, #platform, #shadow {
+  visibility: hidden;
+}
+
+.loader {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
